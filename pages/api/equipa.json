@@ -5,18 +5,13 @@
     "icon": "https://cdn.discordapp.com/avatars/704628945764614144/e4e9035cf3886cc14ba9ac60ed4b90c5.png"
   },
   {
-    "name": "DrMonocle",
-    "role": "Desenvolvedor",
-    "icon": "https://cdn.discordapp.com/avatars/549619189271494676/46d5719eb8ee0f842bab64289d7fd755.png"
-  },
-  {
-    "name": "Mauricio",
-    "role": "Sub-Fundador",
-    "icon": "https://cdn.discordapp.com/avatars/800832293224710175/333dbfd4c48084eee1f88ce918a1ad44.png"
-  },
-  {
     "name": "Putok93",
     "role": "Sub-Fundador",
     "icon": "https://cdn.discordapp.com/avatars/326144834849210369/0a9dc94f6b1bc640ec3dd341e3206bd9.png"
+  },
+  {
+    "name": "DrMonocle",
+    "role": "Desenvolvedor",
+    "icon": "https://cdn.discordapp.com/avatars/549619189271494676/46d5719eb8ee0f842bab64289d7fd755.png"
   }
 ]

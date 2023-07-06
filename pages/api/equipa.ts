@@ -16,7 +16,7 @@ export default function handler(
   fetch(url, { headers })
     .then(res => res.json())
     .then(json => {
-      const staffs = json.filter((member: any) => member.roles.includes('1122639199175180391')).filter((member: any) => !['549619189271494676', '326144834849210369', '800832293224710175', '704628945764614144'].includes(member.user.id));
+      const staffs = json.filter((member: any) => member.roles.includes('1122639199175180391')).filter((member: any) => !['549619189271494676', '326144834849210369', '704628945764614144'].includes(member.user.id));
 
       const staffsFormatted = staffs.map((member: any) => {
         const { user: { username, global_name, avatar } } = member;
